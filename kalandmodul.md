@@ -1,5 +1,5 @@
 ## Context
-This is a practical introduction to the setting writtem on the blog.
+This is a practical introduction to [the setting outlined in my blog](https://budapest-urban-fantasy.blogspot.com/).
 
 ## Design Considerations
 * PC pregens that illustrate typical "mage career paths" in the setting.
