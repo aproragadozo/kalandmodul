@@ -20,7 +20,7 @@ followers of a secret and illegal cult
 #### What happens if the PCs don't do anything?
 
 ## Structure
-The adventure is a 5-room dungeon variation with guardian, puzzle, setback, boss, fight, and reward phases.
+The adventure is a 5-room dungeon variation.
 
 ## Prequel
 
